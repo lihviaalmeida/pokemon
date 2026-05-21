@@ -24,3 +24,16 @@ poppins-regular {
   font-weight: 400;
   font-style: normal;
 }
+
+.card{
+    width: 320px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: -12px -12px 24px 0px #ffffff,12px 12px 24px 0px #d1d5db;
+    background-color: rgb(113, 211, 211);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
